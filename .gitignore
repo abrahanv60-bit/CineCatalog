@@ -1,0 +1,17 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+# Secretos locales
+.env
+.env.*
+!.env.example
+# Archivos de IDE y SO
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Otros
+*.log
